@@ -1,1 +1,1 @@
-https://petstagram-project-hwb0bgcpbrccghdr.swedencentral-01.azurewebsites.net/
+http://16.16.178.164/
