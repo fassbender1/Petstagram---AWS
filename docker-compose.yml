@@ -24,7 +24,6 @@ services:
       POSTGRES_PASSWORD: admin
     volumes:
       - postgres_data:/var/lib/postgresql/data/
-      -
   nginx:
     image: nginx:latest
     container_name: petstagram_nginx
